@@ -52,4 +52,4 @@ X-ray:-https://www.kaggle.com/jtiptj/chest-xray-pneumoniacovid19tuberculosis/dow
 
 
   
-
+
